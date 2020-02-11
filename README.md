@@ -3,6 +3,8 @@ ipyparaview
 
 A widget for interactive server-side ParaView rendering. Note that this requires a pre-existing ParaView installation and ParaView's python libraries to be locatable via $PYTHONPATH--see the `scripts` folders for examples.
 
+[![ParaView+RTX](./ipp_rtx_preview.gif)](https://github.com/NVIDIA/ipyparaview/blob/master/notebooks/Iso-Surfaces_with_RTX.ipynb)
+
 Installation
 ------------
 Note that both the regular and developer installs currently require nodejs (for npm) in addition to the regular tools.
